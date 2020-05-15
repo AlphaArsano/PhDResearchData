@@ -4,7 +4,8 @@
 {"node":1,"name":"Verified"},
 {"node":2,"name":"Attempted Final Project"},
 {"node":3,"name":"Certified"},
-{"node":4,"name":"node4"}
+{"node":4,"name":"Commited"}
+{"node":5,"name":"Certificate hunter"}
 ],
 "links":[
 {"source":0,"target":2,"value":2},
