@@ -2,12 +2,12 @@
 "links": [
 {"source":"All learners","target":"Verified","value":"226"},
 {"source":"All learners","target":"Audit","value":"500"},
-{"source":"Audit","target":"Audit: attempted 5 or more assignments","value":"136"},
+{"source":"Audit","target":"Audit: attempted 5 or more assignments","value":"41"},
 {"source":"Audit: attempted 5 or more assignments","target":"Audit: attempted 50% or more quizes","value":"41"},
 {"source":"Audit: attempted 50% or more quizes","target":"Audit: attempted final project","value":"12"},
 {"source":"Verified","target":"Verified: attempted 5 or more assignments","value":"136"},
-{"source":"Verified: attempted 5 or more assignments","target":"Verified: attempted 50% or more quizes","value":"41"},
-{"source":"Verified: attempted 50% or more quizes","target":"Verified: attempted final project","value":"12"},
+{"source":"Verified: attempted 5 or more assignments","target":"Verified: attempted 50% or more quizes","value":"136"},
+{"source":"Verified: attempted 50% or more quizes","target":"Verified: attempted final project","value":"116"},
 {"source":"Verified: attempted 50% or more quizes","target":"Recieved certificate","value":"14"},
 {"source":"Verified: attempted final project","target":"Recieved certificate","value":"115"}
 ] ,
